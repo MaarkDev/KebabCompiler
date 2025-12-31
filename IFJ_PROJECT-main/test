@@ -1,0 +1,31 @@
+import "ifj25" for Ifj
+class Program {
+
+    static unicorn(){
+
+    }
+
+    static unicorn = (a) {
+
+    }
+
+    var x
+
+    if(1){
+        x = unicorn()
+    } else {
+        setter_unicorn = 5
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
